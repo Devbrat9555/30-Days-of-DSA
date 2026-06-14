@@ -20,10 +20,12 @@ My strategy is to cover all major Data Structures systematically over 30 days.
 
 | Day | Date | Problem Name | Difficulty | Concepts Used |
 | :---: | :---: | :--- | :---: | :--- |
-| 1 | Day 1 | [Find the Duplicate Number (LeetCode 287)](./C48.cpp) | Medium | Cyclic Sort / Swapping |
+| 1 | Day 1 | [Find the Duplicate Number (LeetCode 287)](./ARRAY/C48.cpp) | Medium | Cyclic Sort / Swapping |
 | 2 | Day 2 | Move all negative elements to one side | Easy | Two-Pointers |
-| 2 | Day 2 | [Find All Duplicates in an Array (LeetCode 442)](./C48.cpp) | Medium | Negative Marking |
-| 2 | Day 2 | [Find Missing and Duplicate Elements](./C49.CPP) | Medium | Negative Marking |
+| 2 | Day 2 | [Find All Duplicates in an Array (LeetCode 442)](./ARRAY/C48.cpp) | Medium | Negative Marking |
+| 2 | Day 2 | [Find Missing and Duplicate Elements](./ARRAY/C49.CPP) | Medium | Negative Marking |
+| 3 | Day 3 | [Build Array from Permutation (LeetCode 1920)](./ARRAY/C50.cpp) | Easy | Array Indexing / Permutation |
+| 3 | Day 3 | [Missing Number (LeetCode 268)](./ARRAY/C51.cpp) | Easy | Math / Sum Formula |
 
 ---
 *Consistency is the key! Taking it one day at a time.* 💪
