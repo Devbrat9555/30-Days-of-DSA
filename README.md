@@ -26,6 +26,9 @@ My strategy is to cover all major Data Structures systematically over 30 days.
 | 2 | Day 2 | [Find Missing and Duplicate Elements](./ARRAY/C49.CPP) | Medium | Negative Marking |
 | 3 | Day 3 | [Build Array from Permutation (LeetCode 1920)](./ARRAY/C50.cpp) | Easy | Array Indexing / Permutation |
 | 3 | Day 3 | [Missing Number (LeetCode 268)](./ARRAY/C51.cpp) | Easy | Math / Sum Formula |
+| 4 | Day 4 | [Find All Numbers Disappeared in an Array (LeetCode 448)](./ARRAY/DAILY_PRACTICE_DAY_2.cpp) | Easy | Cyclic Sort |
+| 5 | Day 5 | [Sort an Array (LeetCode 912)](./ARRAY/C52.cpp) | Medium | Merge Sort |
+| 5 | Day 5 | [Merge Sorted Array (LeetCode 88)](./ARRAY/C53.cpp) | Easy | Three Pointers |
 
 ---
 *Consistency is the key! Taking it one day at a time.* 💪
